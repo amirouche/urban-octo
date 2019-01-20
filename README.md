@@ -36,6 +36,10 @@ inspiration from https://youtu.be/4fFDFbi3toc.
 
 - Different from OS scheduling because distributed
 
+# Tools
+
+- https://nicolargo.github.io/glances/
+
 # Ressource
 
 - [Scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing))
